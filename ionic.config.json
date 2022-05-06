@@ -1,0 +1,8 @@
+{
+  "name": "Kengle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "418a0cdc"
+}
