@@ -11,6 +11,7 @@ const Tab1: React.FC = () => {
       <NewsFeed />
       <NewsFeed />
       <NewsFeed />
+      <div style={{textAlign: 'center' }}>Kengle ©2022</div>
       <Footer />
       </IonContent>
     </IonPage>
