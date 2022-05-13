@@ -1,0 +1,8 @@
+.tag-border{
+    margin-bottom:-8px;
+    max-height: 40px;
+    max-width: 120px;
+    border-radius: 16px;
+    background:#dedbd0;
+    padding: 8px 16px 16px;
+}

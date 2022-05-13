@@ -1,0 +1,10 @@
+.kengleTxt {
+    background-color: #c00000;
+    color:white;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    text-align: center;
+    font-size: 12rem;
+    width: 100%;
+    height: 100%;
+}

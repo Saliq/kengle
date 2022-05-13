@@ -1,0 +1,28 @@
+.kengle-footer {
+    width: auto;
+    height: auto;
+    margin: 13px 0 0;
+    padding: 27px 44px 42px;
+    background-color: #272525;
+    color: #f1eee5;
+}
+
+.footer-text {
+    width: auto;
+    height: auto;
+    margin: 0 0 20px;
+    opacity: 0.3;
+    text-shadow: 0 0 16px rgba(0, 0, 0, 0.53);
+    font-size: 32px;
+    font-weight: 500;
+    color: #f1eee5;
+}
+
+.kengle-logo-text {
+    width: 108px;
+    height: 48px;
+    margin: 20px 89px 0 90px;
+    padding: 12.2px 15.9px 10.2px 14.9px;
+    background-color: #c00000;
+    font-size: 22px;
+}
